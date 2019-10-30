@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        revers();
+    }
+
+    public static void revers() {
         int[] a;
         int lenght;
         Scanner inValue = new Scanner(System.in);
